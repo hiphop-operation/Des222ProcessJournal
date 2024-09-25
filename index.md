@@ -1,5 +1,6 @@
 # First journal Entry 
 
-some **exmaple** text
+some **example** text
 
-![bball](bball.jpg )
+![bball](./Images/bball.jpg)
+
