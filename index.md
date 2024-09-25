@@ -1,4 +1,4 @@
-**Des222 Brenton Larsen**
+**Brenton Larsen**
 
 # First journal Entry 
 
