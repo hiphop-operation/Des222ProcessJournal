@@ -8,6 +8,8 @@ Week one is the beginning of my brainstorming sessions as well as starting to le
 
 immediately i am thinking of creating a website or app that responds to the weather and alerts the user of certain conditions. I want to do this because i think its something everyone can benefit from and is easily accessibly through mobile phones and computers.
 
+Another idea could be to use the acceloromator in the micro-bit to sense the movement on the back of a basketball hoop backboard to alert the user of activity in the area. this could be like a signal to say that people are playing nearby. I could also encorporate the microphone on the micro-bit to listen in and use the speaker to play an alert tone.  
+
 I started by working through the modules for knowledge and inspiration.
 <br>
 
@@ -67,5 +69,9 @@ Working through the modules i added the device orientation and media capture api
 ![WeatherApiWebPage](./Images/WeatherApi4.png)
 
 I figured it would be a good idea to have all the information in one location for easier access in the future and could be something i keep coming back to in the future to work off of. 
+
+# Week 4
+
+Reading deeper into human computer interaction specifically has made me think more about making my device be something that seemlessly integrates with life as oppsed to something that creates an alert to grab the users attention. Using the environtment around users to create an interaction that makes sense and feels natural seems to be the ultimate goal of this project. and so far my ideas are based more around retriving information and displaying it in someway. I think the most natural idea i have has so far would be the wrist band to retrieve postioning and angles of a basketball players wrist during jumpshots. This uses cognitive processes to display information that is not easily accessible that can be then be used to inform future decisions in the user reaches conclusion they might not have reached without the device. 
 
 
