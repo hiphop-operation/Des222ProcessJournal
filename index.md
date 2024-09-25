@@ -10,16 +10,28 @@ immediately i am thinking of creating a website or app that responds to the weat
 
 I started by working through the modules for knowledge and inspiration.
 
+**Meat Queen**
 i found the MeatQueen project to be particularly interesting especially the interaction itself. the connection between user and artwork creates an exciting and immersive experience and is something im very interested in recreating.
 
 ![MeatQueen](./Images/MeatQueen.png)
 
-Playing around with the Responsive roulette page found in the modules was a creative way to get me thinking about the possibilites with this project. 
 
+
+**Responsive Roulette**
+Playing around with the Responsive roulette page found in the modules was a creative way to get me thinking about the possibilites with this project. 
 ![ResponsiveRoulette](./Images/ResponsiveRoulette.png) 
 
-Experimenting with the micro-bit by following some of the introductory tutorials found on the micro-bit makecode editor.
 
+**Micro-Bit MakeCode**
+By experimenting with the micro-bit by following some of the introductory tutorials found on the micro-bit makecode editor. I was able to creating an acceloromator that would light up the LEDs if it was tilted to the right.
 
+I see alot of potential with this design already. Such as a simple pedometor that can be attached to the ankle and counts each shake it feels. or to be placed inside a basketball to also count the amount of bounces. 
 ![AccelCode](./Images/AccelCode.png)
+
+Though once i created this i noticed that when i sat it down and left it on it would feel the vibrations though the floor and start to flicker when it sensed movement.
+<video width="320" height="240" controls>
+  <source src="./Images/Motion.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
 
