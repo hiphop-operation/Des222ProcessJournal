@@ -12,22 +12,19 @@ I started by working through the modules for knowledge and inspiration.
 <br>
 
 
-**Meat Queen**
-<br>
+**Meat Queen:**
 i found the MeatQueen project to be particularly interesting especially the interaction itself. the connection between user and artwork creates an exciting and immersive experience and is something im very interested in exploring. 
 
 ![MeatQueen](./Images/MeatQueen.png)
 
 
 
-**Responsive Roulette**
-<br>
+**Responsive Roulette:**
 Playing around with the Responsive roulette page found in the modules was a creative way to get me thinking about the possibilites with this project. As well as thinking about the indivuidal components that will come together in my project.
 ![ResponsiveRoulette](./Images/ResponsiveRoulette.png) 
 
 
-**Micro-Bit MakeCode**
-<br>
+**Micro-Bit MakeCode:**
 By experimenting with the micro-bit by following some of the introductory tutorials found on the micro-bit makecode editor. I was able to creating an acceloromator that would light up the LEDs if it was tilted to the right.
 
 I see alot of potential with this design already. Such as a simple pedometor that can be attached to the ankle and counts each shake it feels. or to be placed inside a basketball to also count the amount of bounces. 
@@ -47,14 +44,12 @@ I just found this intersting and kind of enjoy the interaction and how seemless 
 
 In week 2 i began exploring more options for my device such as wearable devices and data responsive art. The data responsive art made me think back to the albedo of clouds experiment that we read about earlier in the course where two photographers tried to capture an image of the same cloud at the same time from different rooftops. 
 
-**albedo of clouds**
-<br>
+**albedo of clouds:**
 This made me think i could create something that is data driven and relates to cloud albedo levels in specific areas.
 
 maybe i could try recreate the 1950s experiment of trying to photograph the same cloud from different perspectives at the same time and create a platform for posting and collaborating.
 
-**wearable techonology**
-<br>
+**wearable techonology:**
 Looking at the devices shared in the modules such as the celestial sensing jumpsuit and learning about the light up back-pack straps that respond to sound to warn deaf people of potential hazards made me think of potential wearable devices i could create.
 ![JumpSuit](./Images/JumpSuit.png)
 
