@@ -1,4 +1,4 @@
-**Brenton Larsen**
+**Brenton Larsen - https://hiphop-operation.github.io/Des222ProcessJournal/**
 # Process journal
 # Week one
 **23/8/24**
