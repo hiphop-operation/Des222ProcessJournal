@@ -80,12 +80,14 @@ I figured it would be a good idea to have all the information in one location fo
 Reading deeper into human computer interaction specifically has made me think more about making my device be something that seemlessly integrates with life as opposed to something that creates an alert to grab the users attention. Using the environtment around users to create an interaction that makes sense and feels natural seems to be the ultimate goal of this project. and so far my ideas are based more around retriving information and displaying it in someway. I think the most natural idea i have has so far would be the wrist band to retrieve postioning and angles of a basketball players wrist during jumpshots. This uses cognitive processes to display information that is not easily accessible that can be then be used to inform future decisions in the user reaches conclusion they might not have reached without the device. 
 
 **29/9/24**
+
 Revisiting earlier material ive been thinking about doing a wearable device similar to the light up backpack. Maybe using the pedomotor to track steps and illuminate led in some shoelaces or building off this i could use the motion sensor on the microbit to sense when a basketball passes through a hoop and illuminates the net. this interaction seems approriate since its seemless and doesnt require any physical interaction.
 
 Ive bought a led strip to that can be controlled with the micro bit i hope to use that in my final project
 
 # Week 5 
 **1/10/24**
+
 turns out the led strips were not compatible with the micro bit 
 
 i decided to use the onboard accelerometor to be used as a device used for practise in sport. 
@@ -96,7 +98,8 @@ what ive been working on so far has been a device that counts your dribbles whil
 
 This method would involve holding the microbit on the users wrist while they practise a drill 
 
-**similar devices**
+# Similar devices
+
 **2/10/24** 
 
 
@@ -110,6 +113,7 @@ teams of tomorrow use a wrist sensor and a net sensor to track your attempts and
 The blastbasketball replay is said to be a waist worn device that tracks the users vertile leap angles of spin moves and length of hangtime 
 
 **3/10/24**
+
 i have been working on the code for the wrist worn device. This uses the acceleromotor to display the x axis. Ive added some smoothing to make the data easier to read. I feel like this could be useful to build of off and add more features. potentially some mobile connectivity, user feedback and mini games built in. 
 
 my biggest struggle so far is finding a way to display the information in a meaningful and exciting way. 
@@ -117,6 +121,7 @@ my biggest struggle so far is finding a way to display the information in a mean
 ![DataCollection](./Images/DataCollection.png)
 
 **4/10/24**
+
 I think the bounce code i created earlier will be the focus for my assignment 3 i think the appications and ease of access make this a really viable option 
 <video width="320" height="240" controls>
   <source src="./Images/bounce.mp4" type="video/mp4">
