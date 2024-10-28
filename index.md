@@ -121,9 +121,35 @@ my biggest struggle so far is finding a way to display the information in a mean
 ![DataCollection](./Images/DataCollection.png)
 
 **4/10/24**
-
-I think the bounce code i created earlier will be the focus for my assignment 3 i think the appications and ease of access make this a really viable option 
+I think the bounce code i created earlier will be the focus for my assignment 3 i think the applications and ease of access make this a really viable option 
 <video width="320" height="240" controls>
   <source src="./Images/bounce.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
+
+**11/10/24**
+Experimenting with time!
+
+Today i thought about using time as way to create levels of difficulty. I think this will be good for users as it will show progress and create rewarding experiences.
+
+![CreatingRhythm](./Images/CreatingRhythm.png)
+
+Ive been struggling to get the numbers to increase when the dribbles happen at the right rhythm i will have to review my code again and try another method
+
+![BounceRhythm](./Images/BounceRhythm.png)
+
+**14/10/24**
+
+Today i want to be able to make the numbers increase when the micro bit has been shaken at a steady rhythm. so far im only working through the MakeCode website and using the digital micro bit to ensure that the it works before moving it onto the physical one. 
+
+**20/10/24**
+
+![GameRestart](./Images/GameRestart.png)
+
+I have now programmed the micro-bit to count in ascending order for each dribble of the basketball done in a specific rhythm. The game will also reset the dribble count back to 0 as well as reset the rhythm timer for the dribbles. I feel this is how i want the game to work in the final product with the possibilty of adding both hard and easy modes that change the rhythm accorindly to better suit begginers and experienced players.
+
+<video width="320" height="240" controls>
+  <source src="./Images/GameDemo.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
