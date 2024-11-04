@@ -174,4 +174,4 @@ Now that the microbit is wearable ive started testing the feedback of the device
   Your browser does not support the video tag.
 </video>
 
-The mirobit accurately recieves feedback from dribbling the basketball however i found the rhythm to be too slow for it to be an enjoyabel experience. I think this is a good base line for absolute beginners but i would like to add additional speeds and rhythm timings so the user can have some control over their experience,
+The mirobit accurately recieves feedback from dribbling the basketball however i found the rhythm to be too slow for it to be an enjoyabel experience. I think this is a good base line for absolute beginners but i would like to add additional speeds and rhythm timings so the user can have some control over their experience
