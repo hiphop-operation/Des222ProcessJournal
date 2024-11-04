@@ -153,3 +153,25 @@ I have now programmed the micro-bit to count in ascending order for each dribble
   Your browser does not support the video tag.
 </video>
 
+**Week 9**
+
+Ive been having trroubles with the first inital dribble after failed attempts at maintaing rhythm to ive add a new varible that makes the first dribble of an attempt always successful. 
+
+![FirstDribble](./Images/FirstDribble.png)
+
+With this issue addressed i think i will move onto making a truly wearble device. My first thoughts are to sew the microbit onto a glove that the player will wear during practise or games. My initial concerns are surrounding the weight of the microbit and how i can attach it to the glove without it being cumbersome or getting damaged in the process. 
+
+**WEEK 10**
+
+my first attempt at making the device wearable started with velcro strips to make a wrist band that attached to the microbit 
+
+![WristBand](./Images/WristBand.jpg) 
+
+Now that the microbit is wearable ive started testing the feedback of the device and how it might work with the physical edition.
+
+<video width="320" height="240" controls>
+  <source src="./Images/BounceTest.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+The mirobit accurately recieves feedback from dribbling the basketball however i found the rhythm to be too slow for it to be an enjoyabel experience. I think this is a good base line for absolute beginners but i would like to add additional speeds and rhythm timings so the user can have some control over their experience,
