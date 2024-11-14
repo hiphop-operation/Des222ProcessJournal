@@ -169,6 +169,8 @@ my first attempt at making the device wearable started with velcro strips to mak
 
 Now that the microbit is wearable ive started testing the feedback of the device and how it might work with the physical edition.
 
+This video shows the microbit reacting to the dribbles when done in the correct rhythm it also show an 'X' and resets the count to 0 when an incorrect dribble is detected
+
 <video width="320" height="240" controls>
   <source src="./Images/BounceTest.mp4" type="video/mp4">
   Your browser does not support the video tag.
