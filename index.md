@@ -177,3 +177,55 @@ This video shows the microbit reacting to the dribbles when done in the correct 
 </video>
 
 The mirobit accurately recieves feedback from dribbling the basketball however i found the rhythm to be too slow for it to be an enjoyabel experience. I think this is a good base line for absolute beginners but i would like to add additional speeds and rhythm timings so the user can have some control over their experience
+
+
+**Week 11**
+
+I have found that its too difficult to get the micro bit to react to individual dibbles and i have been having touble with restarting the rhythm after an error. So because of this im starting to think i should treat it as more of a time based challenge than a dribble counter.
+
+I have made a number of changes to the code to work in line with my new direction. Goal of my new project to is to achieve 10 consectuive dribbles and use this goal as a training machanism.   
+
+![OnShakeStart](./Images/OnShakeStart.png)
+
+This code will now show a tick and play a melody after 10 consecutive dribbles. I have added a clear screen and a reset to make starting the excersise again more seemless. I have made the rhythm window larger to increase the likelyhood of a successful dribble.
+
+![OnShakeEnd](./Images/OnShakeEnd.png)
+
+Ive also added a melody to unsucessful dribbles. I wanted this melody to be shorter than the sucessful melody so it wouldnt discourage users to much. I found it was quite frustrating to keep hearing the tone after consecutive unsuccessful dribbles and this was creating a less enjoyable experience.
+
+**Week 12**
+
+<video width="320" height="240" controls>
+  <source src="./Images/DribbleTest.mp4" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
+
+This is the execution of the previous code. It works as intended and i believe could be a useful piece of training equipment.
+
+![CompletedCode](./Images/CompletedCode.png)
+This is the completed code that i will be using for the final product. 
+
+**week 13**
+I have begun working on the video segment for the assignment. My initial idea for the video is to create a advertisement that you might see for childrens toys. The first software i started with was the adobe express video editor. I used a template to create the title page and added some of my own photos of the micro bit and a basketball to help to the audience associate my idea with basketball. I also used adobe express to remove the background of the basketball to make it sit in the picture in a more aesthically pleasing way  
+
+![TitlePage](./Images/TitlePage.png)
+
+I gathered a number of video clips that show me demonstrating how the device might be used by audiences. My plan is to create a couple quick snippet clips  that transistion quickly in the video to keep audiences engaged and entertained throughout. I think it is important to show how it responds to the user and how it has been designed for anyone to be able to use. 
+
+![BasketBall](./Images/BasketBall.png) 
+
+The clips im trying to create will show what happens when you succeed and fail. How the user might wear it and how to put it on. then showing the how its intended purpose as a training assisstant. And then a i final shot of how it looks by itself and when the user it wearing it.
+
+![VidCap](./Images/VidCap.png) 
+
+I used powerpoint to create the opening and closing credits scenes
+
+![PresentedBy](./Images/PresentedBy.png) 
+![Credits](./Images/Credits.png) 
+
+The music used throughout was created by me using real instruments and recorded on my phone, uploaded to my computer and pieced together using a software called OBS studio.
+
+I think the device could benefit from added features such as total dribble count tracking instead of ccounting to 10 and restarting along with other feedback loop features such as vibrations in the micro bit and potentially even custom audio tunes for success and failures. This prototype as it is now still has its place in the basketball scene in my opinion and could be improved to be a valuable piece for those that are looking for technology assissted practise mechanisms 
+
+
+
